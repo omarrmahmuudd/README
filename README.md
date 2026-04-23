@@ -27,7 +27,6 @@ I help businesses understand their data and make smarter decisions through clear
 ### 🚀 Featured Projects
 
 #### 📊 Netflix Dashboard
-(https://raw.githubusercontent.com/omarrmahmuddd/omarrmahmuddd/main/netflix-dashboard.png)
 
 - Analyzed content distribution by category  
 - Built interactive visuals for insights  
