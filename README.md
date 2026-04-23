@@ -7,16 +7,7 @@ I turn raw data into clear insights, interactive dashboards, and business decisi
 ### 👨‍💻 About Me
 
 I am a Data Analyst specialized in data cleaning, analysis, and visualization.  
-I help businesses understand their data and make smarter decisions through clear reports and interactive dashboards.
-
----
-
-### 💼 Services I Offer
-
-- Data Cleaning & Preprocessing  
-- Data Analysis & Insights  
-- Interactive Dashboards (Power BI & Excel)  
-- Business Reports & Visualization  
+I help businesses understand their data and make smarter decisions through clear, interactive dashboards.
 
 ---
 
@@ -35,18 +26,37 @@ I help businesses understand their data and make smarter decisions through clear
 
 ### 🚀 Featured Projects
 
-- **Netflix Dashboard (Power BI)**  
-- **Sales Analysis Dashboard**  
-- **Data Cleaning Projects**  
+#### 📊 Netflix Dashboard
+![Netflix Dashboard]("D:\cls\projects\Screenshot 2026-04-13 182150.png")
+
+- Analyzed content distribution by category  
+- Built interactive visuals for insights  
+- Designed a clean and user-friendly dashboard  
+
+---
+
+#### 📊 Sales Analysis Dashboard
+
+- Tracked sales performance and KPIs  
+- Identified trends and patterns  
+- Delivered insights to support decisions  
+
+---
+
+#### 🧹 Data Cleaning Project
+
+- Cleaned raw datasets  
+- Handled missing values & duplicates  
+- Prepared data for analysis  
 
 ---
 
 ### 📈 Why Choose Me?
 
-- Attention to detail  
-- Clean dashboards  
-- Clear insights  
-- Reliable delivery  
+- High attention to detail  
+- Clean & professional dashboards  
+- Clear and actionable insights  
+- Reliable and fast delivery  
 
 ---
 
