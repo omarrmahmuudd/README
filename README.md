@@ -1,59 +1,66 @@
-## Hi there! 👋
+## Omar Mahmoud | Data Analyst 📊
 
-I am **Omar Mahmoud**, a passionate **Data Analyst** who loves turning raw data into meaningful insights and powerful dashboards 📊.  
-
-I specialize in data cleaning, analysis, and visualization using modern tools. Always eager to learn, improve, and work on real-world projects that make an impact.
-
-💡 I’m open to freelance opportunities, collaborations, and building data-driven solutions.
+I turn raw data into clear insights, interactive dashboards, and business decisions.
 
 ---
 
-## 🌐 Connect with me
+### 👨‍💻 About Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-omar%20mahmoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_LINK)](YOUR_LINKEDIN_LINK)  
-[![Gmail Badge](https://img.shields.io/badge/-YOUR_EMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YOUR_EMAIL)](mailto:YOUR_EMAIL)
+I am a Data Analyst specialized in data cleaning, analysis, and visualization.  
+I help businesses understand their data and make smarter decisions through clear reports and interactive dashboards.
 
----
-
-## ⚡ Tools & Technologies
-
-![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)  
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+I focus on delivering high-quality work that is accurate, clean, and easy to understand.
 
 ---
 
-## 📊 What I Do
+### 💼 Services I Offer
 
-✔️ Data Cleaning & Preprocessing  
-✔️ Data Analysis & Insights  
-✔️ Dashboard Creation (Power BI & Excel)  
-✔️ Data Visualization  
-✔️ Business Reporting  
-
----
-
-## 🚀 Projects
-
-📌 Netflix Dashboard  
-📌 Sales Analysis Dashboard  
-📌 Data Cleaning Projects  
+- Data Cleaning & Preprocessing  
+- Data Analysis & Insights  
+- Interactive Dashboards (Power BI & Excel)  
+- Business Reports & Visualization  
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tools & Technologies
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&include_all_commits=true)
+- Excel  
+- Power BI  
+- SQL  
+- Python (Pandas, NumPy, Matplotlib)  
+- Git & GitHub  
 
 ---
 
-## 👀 Profile Views
+### 🚀 Featured Projects
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME)
+- **Netflix Dashboard (Power BI)**  
+  Built an interactive dashboard to analyze content distribution, ratings, and categories.
+
+- **Sales Analysis Dashboard**  
+  Analyzed sales performance and created visuals to support business decisions.
+
+- **Data Cleaning Projects**  
+  Cleaned and transformed raw datasets into structured and analysis-ready data.
+
+---
+
+### 📈 Why Choose Me?
+
+- Strong attention to detail  
+- Clean and professional dashboards  
+- Clear communication  
+- Fast delivery & reliable work  
+
+---
+
+### 🌐 Let's Connect
+
+- LinkedIn: YOUR_LINKEDIN_LINK  
+- Email: YOUR_EMAIL  
+
+---
+
+### 📊 GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
