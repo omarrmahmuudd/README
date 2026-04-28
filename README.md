@@ -11,7 +11,7 @@ I help businesses understand their data and make smarter decisions through clear
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies:
 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -25,38 +25,38 @@ I help businesses understand their data and make smarter decisions through clear
 ![Profile Views](https://komarev.com/ghpvc/?username=omarrmahmuudd&label=Profile%20Views&color=blue&style=flat)
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects:
 
-#### 📊 Netflix Dashboard
+#### 📊 Netflix Dashboard:
 
-- Analyzed content distribution by category  
-- Built interactive visuals for insights  
-- Designed a clean and user-friendly dashboard  
-
----
-
-#### 📊 Sales Analysis Dashboard
-
-- Tracked sales performance and KPIs  
-- Identified trends and patterns  
-- Delivered insights to support decisions  
+- Analyzed content distribution by category.
+- Built interactive visuals for insights.
+- Designed a clean and user-friendly dashboard.
 
 ---
 
-#### 🧹 Data Cleaning Project
+#### 📊 Sales Analysis Dashboard:
 
-- Cleaned raw datasets  
-- Handled missing values & duplicates  
-- Prepared data for analysis  
+- Tracked sales performance and KPIs.
+- Identified trends and patterns.
+- Delivered insights to support decisions.
+
+---
+
+#### 🧹 Data Cleaning Project:
+
+- Cleaned raw datasets.
+- Handled missing values & duplicates.
+- Prepared data for analysis.
 
 ---
 
 ### 📈 Why Choose Me?
 
-- High attention to detail  
-- Clean & professional dashboards  
-- Clear and actionable insights  
-- Reliable and fast delivery  
+- High attention to detail.
+- Clean & professional dashboards.
+- Clear and actionable insights.
+- Reliable and fast delivery.
 
 ---
 
